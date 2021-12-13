@@ -165,6 +165,13 @@
         "com.unity.shadergraph": "12.1.2"
       }
     },
+    "com.unity.scriptablebuildpipeline": {
+      "version": "1.19.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.searcher": {
       "version": "4.9.1",
       "depth": 2,
@@ -241,7 +248,7 @@
     },
     "com.unity.ugui": {
       "version": "1.0.0",
-      "depth": 0,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",

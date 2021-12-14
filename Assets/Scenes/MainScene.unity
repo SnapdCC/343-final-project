@@ -7865,7 +7865,7 @@ VisualEffect:
       m_Array: []
     m_Vector3f:
       m_Array:
-      - m_Value: {x: 32.27, y: 14.18, z: 40.34}
+      - m_Value: {x: 32.27, y: 23.3, z: 44.3}
         m_Name: Scale
         m_Overridden: 1
     m_Vector4f:
@@ -7892,7 +7892,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1105916617}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.2, y: 0, z: -7.8}
+  m_LocalPosition: {x: 4.2, y: 0, z: -6.41}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8101,7 +8101,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1111645848}
   m_LocalRotation: {x: -0.00075931463, y: -0.9971654, z: -0.010156674, w: 0.07454811}
-  m_LocalPosition: {x: 8.66, y: 3.5, z: 22.32}
+  m_LocalPosition: {x: 8.32, y: 3.55, z: 20.07}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
